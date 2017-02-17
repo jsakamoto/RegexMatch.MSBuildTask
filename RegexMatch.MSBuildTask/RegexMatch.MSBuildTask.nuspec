@@ -26,7 +26,7 @@
       - 1st Release
     ]]>
     </releaseNotes>
-    <tags>msbuild disc discimage udf cdfs iso iso9660</tags>
+    <tags>msbuild regex</tags>
   </metadata>
   <files>
     <file src="RegexMatch.MSBuildTask.targets" target="build" />
